@@ -1,0 +1,29 @@
+1. O HTML está ligado corretamente ao arquivo style.css
+R: Sim
+
+2. As imagens estão dentro da pasta imagens
+R: Sim
+
+3. O menu utiliza Flexbox
+R: Sim, utilizando Flexbox.
+
+4. Os cards utilizam Flexbox
+R: Sim, utilizando Flexbox.
+
+5. A página possui uma imagem de fundo
+R: Sim, através do background-image
+
+6. Foi utilizado linear-gradient
+R: Sim, através do linear-gradient()
+
+7. Foi utilizado opacity nas imagens
+R: Sim, utilizando opacity 0.7 e opacity 1 no hover
+
+8. Os textos possuem cores e alinhamentos adequados
+R: Sim, os textos possuem cores e alinhamentos adequados
+
+9. Os cards quebram de linha quando necessário
+R: Sim, utilizando flex-wrap wrap
+
+10. Todos os arquivos abrem corretamente
+R: Sim
